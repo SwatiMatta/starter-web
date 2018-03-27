@@ -9,6 +9,7 @@ This repository is for showing how Git and GitHub work
 
 ### Copyright
 
+Adding a line for rebasing
 Checking
 Copyright git training
 Sample website with plenty of files for demos
