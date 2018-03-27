@@ -8,5 +8,7 @@ This repository is for showing how Git and GitHub work
 ## Deployment
 
 ### Copyright
+
+Checking
 Copyright git training
 Sample website with plenty of files for demos
